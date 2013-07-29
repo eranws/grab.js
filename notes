@@ -1,0 +1,15 @@
+
+* Why web?
+Good seperation of worker and waiter (client/server)
+Runtime - C++, websockets, Browser - Javascript
+
+Browser - a Great Development tool
+
+Recent advances in GPUs, internet standards (HTML5) - Three.js
+
+
+Mr. Grab & the missing air click - why
+  once you dont have a surface to touch or click, deciding whether an action was made is much harder (for the programmer) and not fun (to the user)
+  
+
+Some background about depth, Ir, sensors
