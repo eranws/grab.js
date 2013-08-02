@@ -15,5 +15,13 @@ Mr. Grab & the missing air click - why
 Some background about depth, Ir, sensors
 
 Project ideas:
-	media interface (reach) extend files exploring in the browser
-    paint (3d)
+    media interface (reach) extend files exploring in the browser
+    paint (3d), http://threejs.org/editor/
+
+
+
+
+websites:
+http://threejs.org/
+http://opentsps.com/
+http://prose.io/
