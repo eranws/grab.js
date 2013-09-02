@@ -5,15 +5,21 @@
 
 ## Gestures in Browsers	
 
-grab it here: http://eranws.github.io/grab.js/
+Eran Weissenstern / eranws
 
-<h3>Eran Weissenstern / eranws</h3>
+presentation link: http://eranws.github.io/grab.js/notes
+
 
 ---
 
-## Intro - who am i
-	apps/presale/UX - connecting stuff together, prototyping
-	software engineering & design
+## Intro
+###### who am I?
+
+Primesense's apps team 
+connecting stuff together, prototyping
+software engineering & design
+
+// presale, UX 
 
 --
 ##Reach UX
