@@ -49,17 +49,34 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 
 
 ---
-## Angry birds
-### with kinect
+## Grab and The Missing 'Click'
+
+### the problem:
+once you dont have a surface to touch or click, deciding whether an action was made is much harder (for the programmer) and not fun (to the user)
+--
+
+## Grab and The Missing 'Click'
+### 'Angry Birds' with Kinect
 
 <iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/u_jmQY4QEBY?rel=0" frameborder="0" allowfullscreen></iframe>
 
-do you notice anything missing?
+did you notice anything missing?
 --
+
+## Grab and The Missing 'Click'
+
+### Possible solutions:
+
+* time click :(
+* virtual screen (distance from screen/camera/shoulder?)
+* tap detection (by speed)
+* grab
+
+--
+
 ## Grab
 
 <iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/PurcczCZOO8?rel=0" frameborder="0" allowfullscreen></iframe>
-
 
 --
 
@@ -134,6 +151,9 @@ hack'n'slash (or: hotCoture)
 	take working examples
 	replace the wiring
 	// exercise
+
+
+
 
 
 
