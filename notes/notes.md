@@ -86,20 +86,44 @@ computer vision recognition, "What is there?" (C++)
 # < intermission >
 ## server install
 
+--
+
+install links
 
 ---
 
+
+Browser - a Powerful Development tool
+	Good seperation of worker and waiter, (client/server), cpu bound / io bound
+	Runtime - C++, websockets, Browser - Javascript
+	Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
+
+Why javascript? walkthrough
+	inspect, (F12 / ctrl+shift+J - dev tools)
+	hack (ESC - console)
+	debug (breakpoint)
+	* easy debugging example, famous website
+
+event loop
+each frame, the 'server' waits for a frame from the camera, process it, and sends out: 
+	* hand position
+	* grab state
+	* (skeleton)
+
+hack'n'slash (or: hotCoture)
+	take working examples
+	replace the wiring
+	// exercise
+
+
+
+
+---
 ## Links
 
-* Presentation was made easy with: [Reveal.js](https://github.com/hakimel/reveal.js)
+* Presentation was made easy with: [Reveal.js](http://lab.hakim.se/reveal-js/)
 
 ---
 
-<p class="fragment">... to step through ...</p>
-<ol>
-	<li class="fragment"><code>any type</code></li>
-	<li class="fragment"><em>of view</em></li>
-	<li class="fragment"><strong>fragments</strong></li>
-</ol>
-
-
+# Thank You!
+### Eran Weissenstern / eranws
