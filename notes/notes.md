@@ -106,9 +106,9 @@ did you notice anything missing?
 --
 ## driver
 
-* low-level
-* reads the "Depth Frame"
-* written in C/C++
+* software low-level
+* reads the "Depth Frame" to the PC
+* written in C
 
 --
 ## middleware
