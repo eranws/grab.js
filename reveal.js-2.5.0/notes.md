@@ -5,7 +5,7 @@
 
 ## Gestures in Browsers	
 
-grab it [here](http://eranws.github.io/grab.js/): http://eranws.github.io/grab.js/
+grab it here: http://eranws.github.io/grab.js/
 ---
 
 ## Intro - who am i
