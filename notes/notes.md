@@ -50,7 +50,8 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 ## Grab and The Missing 'Click'
 
 ### the problem:
-once you dont have a surface to touch or click, deciding whether an action was made is much harder (for the programmer) and not fun (to the user)
+- no surface to touch or click
+- deciding whether an action was made is much harder (for the programmer) and not fun (to the user)
 --
 
 ## Grab and The Missing 'Click'
@@ -65,8 +66,8 @@ did you notice anything missing?
 
 ### Possible solutions:
 
-* time click :(
-* virtual screen (distance from screen/camera/shoulder?)
+* 'time click'  :(
+* virtual screen (hand distance from screen/camera/shoulder?)
 * tap detection (by speed)
 * grab
 
@@ -86,33 +87,50 @@ did you notice anything missing?
 
 ## the Stack
 
-* hardware = sensor / camera & chip / (kinect). // Some background about depth, Ir, sensors
-* driver - openni, "Depth Frame" (C)
-* middleware - nite, recognition, "What is there?" (C++)
-* server - websockets (C++) // this line enables multiplayer apps, since the app can run on another device
-* client - app, game. In our case - browser (javascript)
+* hardware
+* driver
+* middleware
+* server
+* client
 
 //	Q: how many are programmers? what language?
 
 --
 ## hardware
-sensor / camera & chip / (kinect).
+
+* IR projector
+* camera
+* chip
+
 // Some background about depth, Ir, sensors
 --
 ## driver
-low-level openni, "Depth Frame"
-(written in C)
-### this 
+
+* low-level
+* reads the "Depth Frame"
+* written in C/C++
+
 --
 ## middleware
-computer vision recognition, "What is there?" (C++)
 
-* nite, 
+* NiTE - Primesense's computer vision layer
+* Scene analysis, segmentation, tracking
+* written in C++
 
 --
-## server - websockets (C++) // this line enables multiplayer apps, since the app can run on another device
+## server
+
+* reads a frame from the camera
+* process it 
+* sends data to the client over websockets 
+
+// this enables multiplayer apps, since the app can run on another device
 --
-## client - app, game. In our case - browser (javascript)
+## client
+
+* application
+* game
+* In our case - a Browser
 
 
 
@@ -123,7 +141,7 @@ computer vision recognition, "What is there?" (C++)
 
 --
 
-install links
+installation links
 
 ---
 
@@ -132,6 +150,7 @@ Browser - a Powerful Development tool
 	Good seperation of worker and waiter, (client/server), cpu bound / io bound
 	Runtime - C++, websockets, Browser - Javascript
 	Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
+	programming is easy and fast
 
 Why javascript? walkthrough
 	inspect, (F12 / ctrl+shift+J - dev tools)
@@ -140,7 +159,6 @@ Why javascript? walkthrough
 	* easy debugging example, famous website
 
 event loop
-each frame, the 'server' waits for a frame from the camera, process it, and sends out: 
 	* hand position
 	* grab state
 	* (skeleton)
