@@ -19,6 +19,9 @@ Intro - who am i
 
 <iframe src="//player.vimeo.com/video/38656940" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/38656940">reach™ UX</a> from <a href="http://vimeo.com/user10841627">Honey Ginger Lemon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/PurcczCZOO8" frameborder="0" allowfullscreen></iframe>
+
 	video - reach
 		youtube...
 	video - puzzle
