@@ -11,24 +11,32 @@ presentation link: http://eranws.github.io/grab.js/notes
 
 
 ---
-
-## Intro
+## About
 ###### who am I?
 
+
 Primesense's apps team 
-connecting stuff together, prototyping
+
+I was part of Primesense’s multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.
+
 software engineering & design
 
 // presale, UX 
 
+---
+## Intro
+
+connecting stuff together, prototyping
+
+
 --
 ##Reach UX
-<iframe data-autoplay width="640" height="315" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 --
 ## puzzle
 
-<iframe data-autoplay width="640" height="720" src="//www.youtube.com/embed/vVlANzCHL2Y?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/vVlANzCHL2Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -44,17 +52,18 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 ## Angry birds
 ### with kinect
 
-<iframe data-autoplay width="640" height="315" src="//www.youtube.com/embed/u_jmQY4QEBY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/u_jmQY4QEBY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 do you notice anything missing?
 --
 ## Grab
 
-<iframe data-autoplay width="640" height="315" src="//www.youtube.com/embed/PurcczCZOO8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/PurcczCZOO8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 --
-<iframe  width="640" height="315" src="localhost:9093" frameborder="0"></iframe>
+
+<iframe  width="640" height="480" src="localhost:9093" frameborder="0"></iframe>
 
 ### tech demo
 
