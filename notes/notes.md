@@ -14,12 +14,10 @@ presentation link: http://eranws.github.io/grab.js/notes
 ## About
 ###### who am I?
 
+* Primesense's apps team
+* gesture based control paradigms for Natural User Interfaces.
+* software engineering & design
 
-Primesense's apps team 
-
-I was part of Primesense’s multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.
-
-software engineering & design
 
 // presale, UX 
 
