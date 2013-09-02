@@ -24,8 +24,7 @@ grab - techdemo
 
 	video - puzzle
 <iframe data-autoplay width="420" height="345" src="//player.vimeo.com/video/38656940"></iframe>
-		http://vimeo.com/38467156
-		credit: Arnon & Ran
+credit: Arnon & Ran
 
 	video - Angry birds played with ipod and kinect - 
 		http://youtu.be/u_jmQY4QEBY?t=24s
