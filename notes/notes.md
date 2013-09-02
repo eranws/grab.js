@@ -14,11 +14,12 @@ grab it here: http://eranws.github.io/grab.js/
 
 --
 ##Reach UX
-<iframe data-autoplay width="560" height="315" src="//www.youtube.com/embed/IVOPxYKhqZ0" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="560" height="315" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 --
 ## puzzle
-<iframe data-autoplay width="420" height="345" src="//player.vimeo.com/video/38467156"></iframe>
+
+<iframe data-autoplay width="960" height="720" src="//www.youtube.com/embed/vVlANzCHL2Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -32,10 +33,10 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 
 ---
 ## Angry birds
-<iframe data-autoplay width="420" height="315" src="//www.youtube.com/embed/u_jmQY4QEBY?t=24s" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="420" height="315" src="//www.youtube.com/embed/u_jmQY4QEBY?rel=0" frameborder="0" allowfullscreen></iframe>
 ### played with ipod and kinect
 --
-<iframe data-autoplay width="420" height="315" src="//www.youtube.com/embed/PurcczCZOO8" frameborder="0" allowfullscreen></iframe>
+<iframe data-autoplay width="420" height="315" src="//www.youtube.com/embed/PurcczCZOO8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### grab - tech demo
 
@@ -52,11 +53,20 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 //	Q: how many are programmers? what language?
 
 --
-## hardware = sensor / camera & chip / (kinect). // Some background about depth, Ir, sensors
+## hardware
+sensor / camera & chip / (kinect).
+// Some background about depth, Ir, sensors
 --
-## driver - openni, "Depth Frame" (C)
+## driver
+low-level openni, "Depth Frame"
+(written in C)
+### this 
 --
-## middleware - nite, recognition, "What is there?" (C++)
+## middleware
+computer vision recognition, "What is there?" (C++)
+
+* nite, 
+
 --
 ## server - websockets (C++) // this line enables multiplayer apps, since the app can run on another device
 --
