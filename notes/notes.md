@@ -5,7 +5,10 @@
 
 ## Gestures in Browsers	
 
+
 Eran Weissenstern / eranws
+
+
 
 presentation link: http://eranws.github.io/grab.js/notes
 
