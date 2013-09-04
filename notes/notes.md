@@ -199,7 +199,7 @@ http://acko.net/
 2. press *ESC* to open console
 3. type: "2+3", press enter
 
-* inspect, ( magnify glass )
+* inspect, (magnifying glass)
 * debug (breakpoint)
 
 //ex - easy debugging example, famous website
