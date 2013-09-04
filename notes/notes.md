@@ -10,7 +10,7 @@ Eran Weissenstern / eranws
 
 
 
-presentation link: http://eranws.github.io/grab.js/notes
+//presentation link: http://eranws.github.io/grab.js/notes
 
 
 ---
