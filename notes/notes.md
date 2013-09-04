@@ -1,14 +1,10 @@
-
 # Grab.js
 
-### or:
+#### or:
 
 ## Gestures in Browsers	
 
-
 Eran Weissenstern / eranws
-
-
 
 //presentation link: http://eranws.github.io/grab.js/notes
 
@@ -17,18 +13,31 @@ Eran Weissenstern / eranws
 ## About
 ###### who am I?
 
-* Primesense's apps team
-* gesture based control paradigms for Natural User Interfaces.
-* software engineering & design
+* Ex-Primesense's apps team
+* Gesture based control
+* Natural User Interfaces.
+* Software engineering & design
 
 
 // presale, UX 
 
 ---
 ## Intro
+##### What we are going to do
 
-connecting stuff together, prototyping
+* WATCH - cool demos
+* LEARN - javascript tricks
+* HACK - connect stuff together, prototype
 
+---
+
+## Our Mission
+To create a simple and fun natural interaction:
+* play/pause
+* navigate and select 
+* paint
+
+// natural - easy to learn, no long explanation. only by seeing.
 
 --
 ##Reach UX
@@ -54,7 +63,7 @@ http://www.kinecthacks.com/top-10-best-kinect-hacks/
 
 ### the problem:
 - no surface to touch or click
-- deciding whether an action was made is much harder (for the programmer) and not fun (to the user)
+- detecting an action is hard (for the programmer) and not fun (to the user)
 --
 
 ## Grab and The Missing 'Click'
@@ -153,12 +162,19 @@ Browser - a Powerful Development tool
 	Good seperation of worker and waiter, (client/server), cpu bound / io bound
 	Runtime - C++, websockets, Browser - Javascript
 	Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
+	http://acko.net/
+
 	programming is easy and fast
 
-Why javascript? walkthrough
-	inspect, (F12 / ctrl+shift+J - dev tools)
-	hack (ESC - console)
-	debug (breakpoint)
+## Why javascript?
+#### a crash course / walkthrough
+	* F12 - open dev tools
+	* console (ESC)
+	* * ctrl+shift+J
+
+	* inspect, ( / )
+
+	* debug (breakpoint)
 	* easy debugging example, famous website
 
 event loop
