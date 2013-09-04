@@ -176,41 +176,45 @@ The topmost level. handles UI, graphics
 ## server install
 
 --
-
+## installation links
 # TODO
-installation links
 
 ---
-
-
-## Browser - a Powerful Development tool
-	Good seperation of worker and waiter, (client/server), cpu bound / io bound
-	Runtime - C++, websockets, Browser - Javascript
-	Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
-	http://acko.net/
+## Browser
+#### a Powerful Development tool
+Good seperation of worker and waiter, (client/server), cpu bound / io bound
+Runtime - C++, websockets, Browser - Javascript
+Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
+http://acko.net/
 
 	programming is easy and fast
 
-// Why javascript? 
---
+// dynamic language javascript
 
+--
 ## Web hacking 101?
 #### a crash course / walkthrough
-	* F12 - open dev tools
-	* console (ESC)
-	* * ctrl+shift+J
 
-	* inspect, ( / )
+1. press *F12* to open dev tools
+2. press *ESC* to open console
+3. type: "2+3", press enter
 
-	* debug (breakpoint)
+* inspect, ( magnify glass )
+* debug (breakpoint)
+
 //ex - easy debugging example, famous website
+// ctrl+shift+J directly to console
 
 ---
+time to
+## hack'n'slash
+#### (or: hot Coture)
 
-hack'n'slash (or: hotCoture)
-	take working examples
-	replace the wiring
-// exercise
+take working examples
+replace the wiring
+
+// TODO: exercise. (youtube/your favorite website)
+// if you want to start something from scratch, now it's the time.
 
 ---
 ## Links
