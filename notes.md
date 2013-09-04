@@ -1,12 +1,7 @@
-# Grab.js
-
-#### or:
-
-## Gestures in Browsers	
+# Grab.js:
+### A HANDS-ON WORKSHOP FOR BUILDING HANDS-OFF EXPERIENCES
 
 Eran Weissenstern / eranws
-
-// presentation link: http://eranws.github.io/grab.js/notes
 
 ---
 ## About
@@ -14,18 +9,15 @@ Eran Weissenstern / eranws
 
 * Ex-Primesense's apps team
 * Gesture based control
-* Natural User Interfaces.
+* Natural User Interfaces
 * Software engineering & design
-
-// presale 
-// games -> UX 
 
 ---
 
 ## Our Mission
-#### What are we going to do
+#### Gestures in Browsers	
 
-To create a simple and fun natural interaction:
+Create a simple and fun natural interaction:
 
 * play/pause
 * navigate and select 
@@ -48,7 +40,7 @@ To create a simple and fun natural interaction:
 <iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 --
-## puzzle
+## puzzled
 
 <iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/vVlANzCHL2Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
