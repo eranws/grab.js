@@ -7,7 +7,6 @@
 Eran Weissenstern / eranws
 
 // presentation link: http://eranws.github.io/grab.js/notes
-// feel free to read it during the lecture
 
 ---
 ## About
