@@ -138,7 +138,6 @@ The 'Stack':
 * reads the "Depth Frame" to the PC
 
 // written in C
-// freenect?
 
 --
 ## middleware
@@ -153,12 +152,15 @@ The 'Stack':
 ## server
 
 on each frame, the server:
+
 * reads data from the camera
-* analyzes it to find interest points 
+* analyzes it to find interest points
 * sends data to the client over websockets 
 
 // two threads
+
 // this enables multiplayer apps, since the app can run on another device
+
 // divide and conquer - easy to develop 
 
 --
