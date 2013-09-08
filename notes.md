@@ -34,6 +34,7 @@ Eran Weissenstern / eranws
 Create simple and fun gesture-based interaction
 
 for example:
+
 * play/pause
 * navigate and select 
 * paint
@@ -81,7 +82,7 @@ The Problem:
 Possible solutions:
 
 * 'time click'  :(
-* virtual screen (hand distance from screen/camera/shoulder)
+* virtual screen (hand distance from body)
 * tap detection (by speed)
 * grab
 
@@ -124,20 +125,12 @@ The 'Stack':
 * camera
 * chip
 
-//	Q: who knows what 'kinect' is?
-
-// Some background about depth, Ir, sensors
-
-// over USB to driver...
-
 --
 ## driver
 ### openni
 
 * software low-level
 * reads the "Depth Frame" to the PC
-
-// written in C
 
 --
 ## middleware
@@ -157,22 +150,20 @@ on each frame, the server:
 * analyzes it to find interest points
 * sends data to the client over websockets 
 
-// two threads
-
 // this enables multiplayer apps, since the app can run on another device
-
-// divide and conquer - easy to develop 
 
 --
 ## client
 
-The topmost level. handles UI, graphics 
+The topmost level. handles UI, graphics, sound, etc.
+
 * application
 * game
 * In our case - a Browser
 
-// well, almost topmost.
-// after the break we'll see why. (we develop on top of the browser)
+<p class="fragment">
+well, almost topmost, since we develop on top of the browser
+</p>
 
 ---
 
@@ -184,13 +175,15 @@ The topmost level. handles UI, graphics
 
 Currently supports windows 32bit only :(
 
-* Install device drivers from openni <a href="http://www.openni.org/openni-sdk/" target="_blank">website</a>.   
-* Download and Run the <a href = "https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a> - 
+* Install device drivers from openni <a href="http://www.openni.org/openni-sdk/?download=http://www.openni.org/wp-content/uploads/2013/07/OpenNI-Windows-x86-2.2.zip" target="_blank">website</a>.
+* Download and Install <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">Chrome</a>
+* Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a> - 
 
 
 ---
 ## Browser
 #### a Powerful Development tool
+
 Good seperation of worker and waiter, (client/server), cpu bound / io bound
 Runtime - C++, websockets, Browser - Javascript
 Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
