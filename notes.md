@@ -1,5 +1,6 @@
-# Grab.js:
+# Grab.js
 ### A HANDS-ON WORKSHOP FOR BUILDING HANDS-OFF EXPERIENCES
+
 
 Eran Weissenstern / eranws
 
@@ -12,18 +13,32 @@ Eran Weissenstern / eranws
 * Natural User Interfaces
 * Software engineering & design
 
+--
+##Reach UX
+<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+---
+## About
+###### previous workshop picks
+
+<iframe data-autoplay width="640" height="480" src="http://www.youtube.com/embed/x96QjirblXE?list=PL69B166657034606C&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+
+* Game oriented
+* 'Unity3d' game engine for development
+
 ---
 
 ## Our Mission
 #### Gestures in Browsers	
 
-Create a simple and fun natural interaction:
+Create simple and fun gesture-based interaction
 
+for example:
 * play/pause
 * navigate and select 
 * paint
 
-// natural - easy to learn, no long explanation. only by seeing.
+// natural - easy to learn, without explanation. only by seeing.
 
 ---
 ## Plan
@@ -34,10 +49,6 @@ Create a simple and fun natural interaction:
 * HACK - connect stuff together, prototype
 
 // hack - not from scratch. code re/abuse
-
---
-##Reach UX
-<iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/IVOPxYKhqZ0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 --
 ## puzzled
@@ -58,11 +69,10 @@ did you notice anything missing?
 ## Grab and The Missing 'Click'
 
 The Problem:
-- no tactile feedback, surface to touch or click
-- detecting an action is hard (for the programmer) and not fun (to the user)
 
-// Kinect hacks 
-// http://www.kinecthacks.com/top-10-best-kinect-hacks/
+* no tactile feedback, surface to touch or click
+* detecting an action is hard (for the programmer)
+* usage is not fun (to the user)
 
 --
 
@@ -71,14 +81,13 @@ The Problem:
 Possible solutions:
 
 * 'time click'  :(
-* virtual screen (hand distance from screen/camera/shoulder?)
+* virtual screen (hand distance from screen/camera/shoulder)
 * tap detection (by speed)
 * grab
 
 --
 
-## Grab
-### tech demo
+## Grab tech demo
 
 <iframe data-autoplay width="640" height="480" src="//www.youtube.com/embed/PurcczCZOO8?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -116,7 +125,9 @@ The 'Stack':
 * chip
 
 //	Q: who knows what 'kinect' is?
+
 // Some background about depth, Ir, sensors
+
 // over USB to driver...
 
 --
@@ -168,7 +179,12 @@ The topmost level. handles UI, graphics
 
 --
 ## installation links
-# TODO
+
+Currently supports windows 32bit only :(
+
+* Install device drivers from openni <a href="http://www.openni.org/openni-sdk/" target="_blank">website</a>.   
+* Download and Run the <a href = "https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a> - 
+
 
 ---
 ## Browser
