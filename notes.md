@@ -38,6 +38,7 @@ for example:
 * play/pause
 * navigate and select 
 * paint
+* ???
 
 // natural - easy to learn, without explanation. only by seeing.
 
@@ -81,10 +82,10 @@ The Problem:
 
 Possible solutions:
 
-* 'time click'  :(
+* 'time click'
 * virtual screen (hand distance from body)
 * tap detection (by speed)
-* grab
+* 'Grab'
 
 --
 
@@ -177,23 +178,21 @@ Currently supports windows 32bit only :(
 
 * Install device drivers from openni <a href="http://www.openni.org/openni-sdk/?download=http://www.openni.org/wp-content/uploads/2013/07/OpenNI-Windows-x86-2.2.zip" target="_blank">website</a>.
 * Download and Install <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">Chrome</a>
-* Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a> - 
-
+* Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a>
 
 ---
 ## Why Browser?
 #### a Powerful Development tool
 
-Good seperation of 'worker' and 'waiter', client/server, Cpu / io bound
+Seperation of client/server, cpu / io bound
 
 Runtime - C++, websockets, Browser - Javascript
 
-Recent advances in GPUs, internet standards (HTML5, WebGL)
+Advances in internet standards (HTML5, WebGL, websockets)
+
+Example: [Three.js](http://chandlerprall.github.io/Physijs/examples/jenga.html)
 
 Programming is easy and fast
-
-[Three.js](http://chandlerprall.github.io/Physijs/examples/jenga.html)
-
 
 // dynamic language javascript
 
@@ -201,26 +200,23 @@ Programming is easy and fast
 ## Web hacking 101?
 #### a crash course / walkthrough
 
-1. press *F12* to open dev tools
-2. press *ESC* to open console
-3. type: "2+3", press enter
+* press *F12* to open dev tools
+* press *ESC* to open console
 
-* inspect, (magnifying glass)
+ctrl+shift+J directly to console
+
+* type: "2+3", press enter
+
+* inspect (magnifying glass)
 * debug (breakpoint)
 
-//ex - easy debugging example, famous website
-// ctrl+shift+J directly to console
 
 ---
 time to
 ## hack'n'slash
-#### (or: hot Coture)
 
 take working examples
 replace the wiring
-
-// TODO: exercise. (youtube/your favorite website)
-// if you want to start something from scratch, now it's the time.
 
 ---
 ## Links
