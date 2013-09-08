@@ -181,15 +181,19 @@ Currently supports windows 32bit only :(
 
 
 ---
-## Browser
+## Why Browser?
 #### a Powerful Development tool
 
-Good seperation of worker and waiter, (client/server), cpu bound / io bound
-Runtime - C++, websockets, Browser - Javascript
-Recent advances in GPUs, internet standards (HTML5, WebGL) - Three.js
-http://acko.net/
+Good seperation of 'worker' and 'waiter', client/server, Cpu / io bound
 
-	programming is easy and fast
+Runtime - C++, websockets, Browser - Javascript
+
+Recent advances in GPUs, internet standards (HTML5, WebGL)
+
+Programming is easy and fast
+
+[Three.js](http://chandlerprall.github.io/Physijs/examples/jenga.html)
+
 
 // dynamic language javascript
 
