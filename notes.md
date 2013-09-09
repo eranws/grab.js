@@ -1,5 +1,5 @@
 # Grab.js
-### A HANDS-ON WORKSHOP FOR BUILDING HANDS-OFF EXPERIENCES
+### A HANDS-ON WORKSHOP FOR BUILDING HANDS-OFF EXPERIENCE
 
 
 Eran Weissenstern / eranws
@@ -38,16 +38,16 @@ for example:
 * play/pause
 * navigate and select 
 * paint
-* ???
+* [any ideas?]
 
 // natural - easy to learn, without explanation. only by seeing.
 
 ---
 ## Plan
-#### How we are going to do it?
+#### How are we going to do it?
 
 * WATCH - cool demos
-* LEARN - javascript tricks
+* LEARN - javascript basics
 * HACK - connect stuff together, prototype
 
 // hack - not from scratch. code re/abuse
@@ -108,13 +108,11 @@ Possible solutions:
 ## What's between?
 #### (the man and the machine)
 
-The 'Stack':
-
 * hardware
 * driver
 * middleware
 * server
-* client
+* _client_
 
 //	Q: how many are programmers? what language?
 
