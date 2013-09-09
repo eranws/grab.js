@@ -176,7 +176,7 @@ Currently supports windows 32bit only :(
 
 * Install device drivers from openni <a href="http://www.openni.org/openni-sdk/?download=http://www.openni.org/wp-content/uploads/2013/07/OpenNI-Windows-x86-2.2.zip" target="_blank">website</a>.
 * Download and Install <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">Chrome</a>
-* Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer.zip">grabServer</a>
+* Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer2.zip">grabServer</a>
 
 ---
 ## Why Browser?
