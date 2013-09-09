@@ -112,7 +112,7 @@ Possible solutions:
 * driver
 * middleware
 * server
-* _client_
+* **client**
 
 //	Q: how many are programmers? what language?
 
@@ -178,6 +178,17 @@ Currently supports windows 32bit only :(
 * Download and Install <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">Chrome</a>
 * Download and Run the server: <a href="https://dl.dropboxusercontent.com/u/3685114/grab.js/grabServer2.zip">grabServer</a>
 
+--
+
+Server
+ bin\grabserver.exe - the 'server'
+
+Client
+ bin\data\web\index.html - the webpage
+ bin\data\web\js\main.js - handles the connection with server
+ bin\data\web\js\app.js - the App (it's up to you!)
+
+
 ---
 ## Why Browser?
 #### a Powerful Development tool
@@ -188,7 +199,10 @@ Runtime - C++, websockets, Browser - Javascript
 
 Advances in internet standards (HTML5, WebGL, websockets)
 
-Example: [Three.js](http://chandlerprall.github.io/Physijs/examples/jenga.html)
+--
+## Example:
+
+[Three.js](http://chandlerprall.github.io/Physijs/examples/jenga.html)
 
 Programming is easy and fast
 
